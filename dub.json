@@ -1,0 +1,12 @@
+{
+	"authors": [
+		"carsten"
+	],
+	"copyright": "Copyright © 2023, carsten",
+	"dependencies": {
+		"dinotify": "~>0.4.0"
+	},
+	"description": "Inotify file copy",
+	"license": "proprietary",
+	"name": "ifiler"
+}
